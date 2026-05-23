@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Puncharas 👋
 
-<!--
-**Theme-P/Theme-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **AI Developer** at National Telecom Public Company Limited  
+Building full-stack AI applications end-to-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- **TimSum V3** — Enterprise AI Meeting Transcription & Summarization Platform
+
+### 🛠 Tech Stack
+**Backend:** Python · FastAPI · Flask · Celery · Redis  
+**Frontend:** React · Vite · JavaScript  
+**AI / LLM:** OpenAI · LangChain · Langflow · WhisperX · RAG  
+**Data:** MongoDB · Milvus · Qdrant · MinIO  
+**DevOps:** Docker · Docker Compose · NVIDIA GPU · Linux
+
+### 📫 Reach Me
+- ✉️ muanjanjam.p@gmail.com
+- 📞 098-9133953
